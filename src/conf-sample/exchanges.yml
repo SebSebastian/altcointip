@@ -45,7 +45,7 @@ bittrex:
     https: true
     urlpaths: ['/api/v1.1/public/getticker?market={THING_TO}-{THING_FROM}']
     jsonpaths: ['result.Last']
-    coinlist: ['btc','8bit','aby','adc','aeon','am','apex','arb','arch','asn','axiom','bay','bbr','bcr','bitb','bits','bitz','blc','blitz','blk','block','bob','boom','bsty','btcd','btcry','bts','bucks','burst','byc','cam','cann','ccn','cf','child','circ','clam','cloak','cpc','crave','crypt','cure','dash','dcc','dgb','dgc','dibs','digs','dmd','doge','doged','dope','drkt','drz','dtc','dub','efl','emc2','enrg','erc','eth','excl','fair','fc2','fibre','fldc','flo','fsc2','ftc','gaia','gam','gcr','gemz','gen','geo','ghc','give','giz','globe','gp','grav','grc','grid','grm','grt','gsm','hap','hyp','hyper','hz','ibits','iec','ioc','j','jbs','kobo','kore','ktk','ldoge','limx','ltc','lux','lxc','m1','maryj','max','metal','mona','mtr','mue','mwc','myr','myst','mzc','nanas','naut','nav','nbt','neos','niro','nkt','nlg','ntrn','nxt','oc','octo','ok','omc','opal','pink','pkb','pot','ppc','ptc','pxi','qslv','qtl','qtz','r3d','rbr','rby','rdd','root','ros','rzr','sdc','sfr','shell','shibe','sigu','sjcx','slg','sling','slr','smac','smbr','snrg','soon','sphr','spr','ssd','start','str','swift','sync','sys','tes','thc','tit','tri','trk','tron','trust','u','ufo','unit','uno','uro','utc','via','vior','viral','vmc','vnl','vpn','vrc','vtc','vtr','wbb','xai','xbs','xc','xco','xcp','xdn','xdq','xem','xmg','xmr','xpy','xqn','xra','xrp','xseed','xsi','xst','xtc','xwc','xwt','zrc']
+    coinlist: ['btc','ltc','sdc','ok','doge']
     fiatlist: []
     uppercase:  false
 
